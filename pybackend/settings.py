@@ -79,7 +79,7 @@ DATABASES = {
         'NAME': 'dino',
         'USER': 'root',
         'PASSWORD': 'Pejvak.61',
-        'HOST': '127.0.0.1',
+        'HOST': 'localhost',
         'PORT': '3306',
     }
 }
